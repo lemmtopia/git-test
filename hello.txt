@@ -1,0 +1,5 @@
+Hello, Git!
+I can use git status to check my commit status.
+I can use git add <file> to add a file to the staging area.
+I can use git commit -m "Message" to commit the files in the staging area.
+I can use git log to log all the changes in the project.
